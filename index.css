@@ -1,0 +1,24 @@
+h1, p, div {
+    text-align: center;
+}
+
+h1 {
+    font-size: 3.7em;
+}
+
+p {
+    width: 69%;
+    margin: auto;
+    padding: 20px;
+    font-size: 22.3px;
+}
+
+div {  
+    width: 69%;
+    font-size: 22.3px;
+    margin: auto;
+}
+
+div#1 {
+    padding-top: 40px;
+}
