@@ -13,16 +13,16 @@ p {
     font-size: 22.3px;
 }
 
-div {  
-    width: 69%;
+input {  
+    /* width: 69%; */
     font-size: 22.3px;
-    margin: auto;
+    /* margin: auto; */
 }
 
-div#op1, div#op2, div#op3, div#op4 {
+/* input#op1, input#op2, input#op3, input#op4 {
     border-bottom: black solid 1px;
-    /* border-left: black solid 1px; */
-}
+    border-left: black solid 1px;
+} */
 
 section {
     border: 1px solid black;
